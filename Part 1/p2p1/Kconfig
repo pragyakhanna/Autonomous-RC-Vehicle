@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_P2P1
+	bool "p2p1"
+ 	default n
+ 	---help---
+ 		Enable support for p2p1
